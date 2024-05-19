@@ -43,10 +43,12 @@
 
 
 .imageAboutPage {
-    max-height: 400px; /* maximum height of 300 pixels */
-  min-height: 300px; 
-    width: 100%;
+    max-height: 700px; /* maximum height of 300 pixels */
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 20%;
 }
+
 
 
 .navbarScroll.navbarDark {
